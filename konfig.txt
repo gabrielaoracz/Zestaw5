@@ -1,0 +1,8 @@
+30 15 '+'
+MyCanvas.txt
+PROSTOKAT 10 10 5 3 ')'
+KOLO 4 12 4 ' '
+trojkat 25 6 4 '\'
+KWADRAT 3 3 3 ' '
+trojkat 15 5 4 'Q'
+prostokat 8 9 -10 5 '-'
