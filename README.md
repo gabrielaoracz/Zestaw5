@@ -23,7 +23,7 @@ Dla przykładowego pliku konfiguracyjnego z repozytorium:
 ```   
 
 ## 3. POPRAWNY PLIK KONFIGURACYJNY
-#### Aby móc bezproblemowo korzystać z programu, konieczne jest przygotowanie poprawnego pliku konfiguracyjnego, który będzie bazą do wykonania obrazka. Nazwę tego pliku należy podać jako parametr programu.
+#### Aby móc bezproblemowo korzystać z programu konieczne jest przygotowanie poprawnego pliku konfiguracyjnego, który będzie bazą do wykonania obrazka. Nazwę tego pliku należy podać jako parametr programu.
 #### Wzór pliku konfiguracyjnego:
 ```
 szerokość_planszy wysokość_planszy 'znak_tla_planszy'
@@ -43,9 +43,9 @@ kolo 3 4 5 'f' -> Kolo o współrzędnych środka(3,4), promieniu 5, wypełnione
 ## 4. UWAGI
 - nazwa figury powinna byc zapisana  wyłącznie małymi lub dużymi literami bez polskich znaków (dozwolone: kolo/KOLO, ale niepoprawne, np. Kolo);
 - Znak spacji zdefiniowany jest jako ' '. Pozostale znaki podobnie, np. 'w', '(', '8'.
-- współrzędnymi mogą być dowolne liczby całkowite z przedziału 0<=x<szerokość_planszy, 0<=y<wysokość_planszy;
+- Plansza interpretowana jest analogicznie do kartezjanskiego ukladu wspolrzednych.
 
-Plansza interpretowana jest analogicznie do kartezjanskiego ukladu wspolrzednych.     
+          
 ##### ***Przyklad:***    
 plansza 5x3 wypełniona symbolami '#':    
 
