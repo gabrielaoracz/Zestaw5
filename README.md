@@ -52,4 +52,4 @@ plansza 5x3 wypełniona symbolami '#':
      #####
      #A###
      #####
-gdzie liczba_znaków_w_linii(Szerokość planszy) interpretowana jest jako oś 'x': 0<=x<5, a liczba_linii(wysokość planszy) jako oś 'y': 0<=y<3. Punkt A ma zatem współrzędne (1,1).
+gdzie liczba_znaków_w_linii(Szerokość planszy) interpretowana jest jako oś 'x': 0<=x<5, a liczba_linii(wysokość planszy) jako oś 'y': 0<=y<3 (x,y -> liczby całkowite). Punkt A ma zatem współrzędne (1,1).
